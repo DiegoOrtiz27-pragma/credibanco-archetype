@@ -1,7 +1,27 @@
+# Configuración para el perfil por defecto
 server:
   port: 8080
+
 springdoc:
   api-docs:
     path: /api-docs
   swagger-ui:
     path: /swagger-ui.html
+
+---
+spring:
+  config:
+    activate:
+      on-profile: local # Propiedades que se activan SÓLO con el perfil 'local'
+
+# No necesitamos configurar nada más para el logger local, funciona automáticamente.
+
+---
+spring:
+  config:
+    activate:
+      on-profile: dev # Propiedades para el perfil 'dev' (o cualquier otro que no sea 'local')
+
+logging:
+  service:
+    url: http://mi-microservicio-de-logs.mi-namespace/api/v1/logs # URL del servicio de logs en el entorno de DEV

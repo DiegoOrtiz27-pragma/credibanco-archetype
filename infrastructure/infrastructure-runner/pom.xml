@@ -9,7 +9,7 @@
   </parent>
 
   <artifactId>infrastructure-runner</artifactId>
-  <name>Infrastructure :: Runner</name>
+  <name>infrastructure-runner</name>
 
   <dependencies>
     <dependency>
