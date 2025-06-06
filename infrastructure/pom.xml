@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.credibanco.swarch</groupId>
+    <artifactId>credibanco-archetype-parent</artifactId>
+    <version>3.5.0</version>
+  </parent>
+  <artifactId>infrastructure</artifactId>
+  <packaging>pom</packaging>
+  <name>infrastructure</name>
+  <modules>
+    <module>aspects</module>
+    <module>driven-adapter</module>
+    <module>entry-point</module>
+    <module>infrastructure-runner</module>
+  </modules>
+</project>
