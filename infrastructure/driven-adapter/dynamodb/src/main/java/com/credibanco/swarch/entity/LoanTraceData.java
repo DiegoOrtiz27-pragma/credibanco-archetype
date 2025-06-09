@@ -11,7 +11,7 @@ import software.amazon.awssdk.enhanced.dynamodb.mapper.annotations.DynamoDbParti
 @Getter
 @Setter
 @NoArgsConstructor
-public class ObjectData {
+public class LoanTraceData {
 
     @Getter(onMethod_ = @DynamoDbPartitionKey)
     private String id;
