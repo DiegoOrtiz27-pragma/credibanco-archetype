@@ -1,0 +1,8 @@
+com\credibanco\swarch\mapper\LoanDataMapper.class
+com\credibanco\swarch\loan\LoanDataRepository.class
+com\credibanco\swarch\mapper\LoanDataMapperImpl.class
+com\credibanco\swarch\generic\AdapterOperations.class
+com\credibanco\swarch\loan\LoanDataAdapter.class
+com\credibanco\swarch\loan\LoanData.class
+com\credibanco\swarch\config\JpaEntityScanConfig.class
+com\credibanco\swarch\constant\JpaConstants.class

@@ -11,7 +11,6 @@ com\credibanco\swarch\exceptions\StandardRestException.class
 com\credibanco\swarch\out\IMessagePort.class
 com\credibanco\swarch\out\IEntrustSecret.class
 com\credibanco\swarch\valueobject\Message.class
-com\credibanco\swarch\App.class
 com\credibanco\swarch\mapper\GenericDataMapper.class
 com\credibanco\swarch\util\RequestFile.class
 com\credibanco\swarch\exceptions\ApiErrorResponse$ErrorDetails.class
