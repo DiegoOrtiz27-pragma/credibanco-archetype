@@ -1,1 +1,15 @@
-C:\Users\camil\Music\PRAGMA\credibanco-archetype\infrastructure\entry-point\rest\src\main\java\com\credibanco\swarch\TestController.java
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\entry-point\rest\src\main\java\com\credibanco\swarch\LoanController.java
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\entry-point\rest\src\main\java\com\credibanco\swarch\constant\ExceptionsConstants.java
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\entry-point\rest\src\main\java\com\credibanco\swarch\constant\SwaggerConstants.java
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\entry-point\rest\src\main\java\com\credibanco\swarch\constant\CommonConstants.java
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\entry-point\rest\src\main\java\com\credibanco\swarch\config\GlobalExceptionHandler.java
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\entry-point\rest\src\main\java\com\credibanco\swarch\dto\ResponseFactory.java
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\entry-point\rest\src\main\java\com\credibanco\swarch\config\SwaggerConfig.java
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\entry-point\rest\src\main\java\com\credibanco\swarch\constant\RestConstants.java
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\entry-point\rest\src\main\java\com\credibanco\swarch\dto\ApiResponseDto.java
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\entry-point\rest\src\main\java\com\credibanco\swarch\dto\LoanDto.java
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\entry-point\rest\src\main\java\com\credibanco\swarch\documentation\CommonApiResponses.java
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\entry-point\rest\src\main\java\com\credibanco\swarch\documentation\JsonResponseTemplates.java
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\entry-point\rest\src\main\java\com\credibanco\swarch\mappers\ILoanDtoMapper.java
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\entry-point\rest\src\main\java\com\credibanco\swarch\constant\InfrastructureConstants.java
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\entry-point\rest\src\main\java\com\credibanco\swarch\documentation\ApiResponsesExamples.java

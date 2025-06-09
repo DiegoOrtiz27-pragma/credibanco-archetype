@@ -1,0 +1,4 @@
+com\credibanco\swarch\model\HttpRequestConfig.class
+com\credibanco\swarch\RestClientConstants.class
+com\credibanco\swarch\config\GlobalConfiguration.class
+com\credibanco\swarch\dto\PartyDataReferenceDto.class
