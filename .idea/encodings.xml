@@ -7,6 +7,16 @@
     <file url="file://$PROJECT_DIR$/domain/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/infrastructure/aspects/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/infrastructure/aspects/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/driven-adapter/jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/driven-adapter/jpa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/driven-adapter/logger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/driven-adapter/logger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/driven-adapter/message/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/driven-adapter/message/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/driven-adapter/rest-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/driven-adapter/rest-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/driven-adapter/secrets/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/driven-adapter/secrets/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/infrastructure/driven-adapter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/infrastructure/driven-adapter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/infrastructure/driven-adapters/src/main/java" charset="UTF-8" />

@@ -14,5 +14,6 @@
     <module>message</module>
     <module>rest-client</module>
     <module>secrets</module>
+    <module>dynamodb</module>
   </modules>
 </project>

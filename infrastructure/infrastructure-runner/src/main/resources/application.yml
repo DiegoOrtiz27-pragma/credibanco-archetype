@@ -8,6 +8,9 @@ springdoc:
   swagger-ui:
     path: /swagger-ui.html
 
+aws:
+  region: "us-east-1"
+
 ---
 spring:
   config:
