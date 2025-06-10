@@ -1,0 +1,8 @@
+com\credibanco\swarch\adapter\sqs\SqsAdapter.class
+com\credibanco\swarch\entity\LoanTraceData.class
+com\credibanco\swarch\mapper\ILoanTraceMapper.class
+com\credibanco\swarch\config\DynamoDbConfig.class
+com\credibanco\swarch\mapper\ILoanTraceMapperImpl.class
+com\credibanco\swarch\repository\IObjectDataRepository.class
+com\credibanco\swarch\constant\DynamoDBConstatns.class
+com\credibanco\swarch\adapter\LoanTraceRepositoryAdapter.class

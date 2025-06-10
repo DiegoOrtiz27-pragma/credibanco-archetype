@@ -27,6 +27,7 @@
         <module name="infrastructure-runner" />
         <module name="message" />
         <module name="secrets" />
+        <module name="dynamodb" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

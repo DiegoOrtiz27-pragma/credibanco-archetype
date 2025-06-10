@@ -1,0 +1,7 @@
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\driven-adapter\dynamodb\src\main\java\com\credibanco\swarch\constant\DynamoDBConstatns.java
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\driven-adapter\dynamodb\src\main\java\com\credibanco\swarch\config\DynamoDbConfig.java
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\driven-adapter\dynamodb\src\main\java\com\credibanco\swarch\adapter\sqs\SqsAdapter.java
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\driven-adapter\dynamodb\src\main\java\com\credibanco\swarch\entity\LoanTraceData.java
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\driven-adapter\dynamodb\src\main\java\com\credibanco\swarch\adapter\LoanTraceRepositoryAdapter.java
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\driven-adapter\dynamodb\src\main\java\com\credibanco\swarch\mapper\ILoanTraceMapper.java
+C:\Users\ana.vargasj_pragma\credibanco-archetype\infrastructure\driven-adapter\dynamodb\src\main\java\com\credibanco\swarch\repository\IObjectDataRepository.java

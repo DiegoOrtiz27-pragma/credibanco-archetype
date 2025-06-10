@@ -7,6 +7,8 @@
     <file url="file://$PROJECT_DIR$/domain/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/infrastructure/aspects/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/infrastructure/aspects/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/driven-adapter/dynamodb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/driven-adapter/dynamodb/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/infrastructure/driven-adapter/jpa/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/infrastructure/driven-adapter/jpa/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/infrastructure/driven-adapter/logger/src/main/java" charset="UTF-8" />

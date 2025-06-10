@@ -8,20 +8,29 @@ springdoc:
   swagger-ui:
     path: /swagger-ui.html
 
----
+aws:
+  region: "us-east-1"
+
+  sqs:
+    queueUrl: https://sqs.us-east-2.amazonaws.com/451712634891/example-credibanco
+
+
+
+
 spring:
   config:
     activate:
-      on-profile: local # Propiedades que se activan SÓLO con el perfil 'local'
+      on-profile: local  # Propiedades que se activan SÓLO con el perfil 'local'
 
 # No necesitamos configurar nada más para el logger local, funciona automáticamente.
 
 ---
+
 spring:
   config:
     activate:
-      on-profile: dev # Propiedades para el perfil 'dev' (o cualquier otro que no sea 'local')
+      on-profile: local  # Propiedades para el perfil 'dev' (o cualquier otro que no sea 'local')
 
 logging:
   service:
-    url: http://mi-microservicio-de-logs.mi-namespace/api/v1/logs # URL del servicio de logs en el entorno de DEV
+    url: http://mi-microservicio-de-logs.mi-namespace/api/v1/logs

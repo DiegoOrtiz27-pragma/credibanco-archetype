@@ -2,4 +2,5 @@ com\credibanco\swarch\usecase\MessageUseCase.class
 com\credibanco\swarch\constant\ApplicationContants.class
 com\credibanco\swarch\usecase\AuthenticationUseCase.class
 com\credibanco\swarch\usecase\LoanUseCase.class
+com\credibanco\swarch\usecase\SendMessageUseCase.class
 com\credibanco\swarch\usecase\TraceLoanUseCase.class

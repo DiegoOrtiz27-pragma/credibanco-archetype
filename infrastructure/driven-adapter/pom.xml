@@ -8,6 +8,12 @@
   <artifactId>driven-adapter</artifactId>
   <packaging>pom</packaging>
   <name>driven-adapter</name>
+  <dependencies>
+    <dependency>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>sqs</artifactId>
+    </dependency>
+  </dependencies>
   <modules>
     <module>jpa</module>
     <module>logger</module>

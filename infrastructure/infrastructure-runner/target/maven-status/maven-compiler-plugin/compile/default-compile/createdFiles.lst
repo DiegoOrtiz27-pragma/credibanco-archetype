@@ -1,3 +1,4 @@
 com\credibanco\swarch\BankingApplication.class
 com\credibanco\swarch\config\UseCaseConfig.class
+com\credibanco\swarch\config\AwsSqsConfig.class
 com\credibanco\swarch\config\DomainServiceConfig.class
