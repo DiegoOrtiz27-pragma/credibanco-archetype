@@ -1,4 +1,4 @@
-package com.credibanco.swarch.adapter;
+package com.credibanco.swarch.websocket;
 
 import com.credibanco.swarch.entity.LoanTraceData;
 import com.credibanco.swarch.mapper.ILoanTraceMapper;

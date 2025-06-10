@@ -23,6 +23,6 @@
   </dependencies>
   <modules>
     <module>rest</module>
+    <module>websocket</module>
   </modules>
-
 </project>
