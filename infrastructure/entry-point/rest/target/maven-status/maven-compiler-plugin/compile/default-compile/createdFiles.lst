@@ -6,6 +6,7 @@ com\credibanco\swarch\constant\CommonConstants.class
 com\credibanco\swarch\constant\RestConstants.class
 com\credibanco\swarch\documentation\ApiResponsesExamples.class
 com\credibanco\swarch\mappers\ILoanDtoMapper.class
+com\credibanco\swarch\SqsController.class
 com\credibanco\swarch\constant\InfrastructureConstants.class
 com\credibanco\swarch\dto\LoanDto$LoanDtoBuilder.class
 com\credibanco\swarch\dto\LoanDto.class

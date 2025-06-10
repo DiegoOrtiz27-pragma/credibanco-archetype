@@ -1,1 +1,3 @@
-com\credibanco\swarch\App.class
+com\credibanco\swarch\AspectsConstants.class
+com\credibanco\swarch\ExceptionHandlingAspect.class
+com\credibanco\swarch\LoggingAspect.class
